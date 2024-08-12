@@ -1,0 +1,32 @@
+{
+  "id": "d6f13c6c-7d07-4e18-985b-5a706b8075d4",
+  "name": "Crud Application",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "A Hello World extension for Business Central by felix.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
